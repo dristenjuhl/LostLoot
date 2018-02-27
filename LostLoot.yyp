@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "60f21984-7f29-43f4-9a86-35af4202d1f6",
+            "Value": {
+                "id": "21b29685-0daf-49ea-b816-dd7f639f6b37",
+                "resourcePath": "sprites\\spr_blueOrbDristen\\spr_blueOrbDristen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "69f13301-92d9-4146-9f42-dc3d432b8efd",
             "Value": {
                 "id": "afaa0bc3-60c9-43d6-b879-e3c025ecf8f3",
