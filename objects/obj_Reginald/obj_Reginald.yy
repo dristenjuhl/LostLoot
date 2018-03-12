@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Reginald",
     "eventList": [
-        
+        {
+            "id": "8d87b62a-8adc-4d45-af33-a32de9fd6603",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "12ed18de-b19b-4969-b826-e32de1cb6cee"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
