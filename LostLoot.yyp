@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0fcc5d9e-4e7b-41aa-b4dd-eb80b5289bd1",
+            "Value": {
+                "id": "579705fd-f661-4a59-b341-a33de2ce2ab3",
+                "resourcePath": "objects\\obj_level_1_Intro_Message\\obj_level_1_Intro_Message.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "12ed18de-b19b-4969-b826-e32de1cb6cee",
             "Value": {
                 "id": "0d4a7940-726f-48d8-a655-e100655a0a0f",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "4bb33fec-8fd1-4019-bf8d-134ba30588b0",
+            "Value": {
+                "id": "4fb1ce6c-c013-47bd-9376-a27b050db6ae",
+                "resourcePath": "rooms\\message_room\\message_room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "4c5ab012-7d6b-4f4d-86eb-34a8f216e89e",
             "Value": {
                 "id": "b4cc8e0c-1a14-4842-9416-cfe9d4101efc",
@@ -180,6 +196,14 @@
                 "id": "d33f727d-b335-4927-a4d4-466d05e893f8",
                 "resourcePath": "objects\\obj_Portal_Level_Finish\\obj_Portal_Level_Finish.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5fcfe92c-5102-4c17-b221-912c4ccd4ac0",
+            "Value": {
+                "id": "c547238e-fbae-4388-a79b-9489fe4dfce4",
+                "resourcePath": "views\\5fcfe92c-5102-4c17-b221-912c4ccd4ac0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -252,6 +276,14 @@
                 "id": "30715ae8-a639-4c0e-829d-5be51be1da02",
                 "resourcePath": "views\\8622991f-f0a5-4ece-bc06-43222de832e4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9e68d212-006c-46b8-b99f-d4f987bea327",
+            "Value": {
+                "id": "71355b1a-fb78-45fa-bb60-5323fd29d6cb",
+                "resourcePath": "objects\\obj_Spawner\\obj_Spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
