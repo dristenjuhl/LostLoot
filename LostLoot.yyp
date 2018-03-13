@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "33ec9ae9-5430-4c22-87e4-0dc1acb836ce",
+            "Value": {
+                "id": "f2fd36ed-a66f-4ff2-965c-72273ff10fc7",
+                "resourcePath": "views\\33ec9ae9-5430-4c22-87e4-0dc1acb836ce.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "34bfb66c-c35e-4cdd-982e-d588154c0ca3",
             "Value": {
                 "id": "d102e6d0-6b2e-4746-8000-778ad494c211",
@@ -319,6 +327,14 @@
             }
         },
         {
+            "Key": "a945fa28-62f7-4fee-bd2b-379d4d659d06",
+            "Value": {
+                "id": "c68e55f8-583d-495a-94e7-31cd548a318e",
+                "resourcePath": "views\\a945fa28-62f7-4fee-bd2b-379d4d659d06.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "aefb0419-d070-484d-9fa7-309c6a76b25e",
             "Value": {
                 "id": "fa0b3a97-461f-4c42-a1cd-4a71a601628c",
@@ -383,6 +399,14 @@
             }
         },
         {
+            "Key": "cfa04e92-40be-46b5-b173-e6a00ca69247",
+            "Value": {
+                "id": "d90a59df-8a7a-4903-99bf-f57a1d38e31c",
+                "resourcePath": "views\\cfa04e92-40be-46b5-b173-e6a00ca69247.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "db29ee0f-d18d-456f-b340-9d8b262bd807",
             "Value": {
                 "id": "9db6b1c9-8d83-4c0a-b82f-b4a3bf2ed849",
@@ -411,6 +435,14 @@
             "Value": {
                 "id": "dd02af69-d795-47ee-96d4-b972423265b5",
                 "resourcePath": "views\\e629ed2e-1140-4f68-9a4c-e5edd4121701.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e81aec55-6d9c-4801-a730-0b90c5ac9d68",
+            "Value": {
+                "id": "bee6f7bb-6566-441f-bee9-d304df42cfa5",
+                "resourcePath": "views\\e81aec55-6d9c-4801-a730-0b90c5ac9d68.yy",
                 "resourceType": "GMFolder"
             }
         },
