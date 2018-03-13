@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_Portal_Green",
     "eventList": [
-        
+        {
+            "id": "4b5acc52-8dfa-4b98-ab99-297c2f316ba9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "12ed18de-b19b-4969-b826-e32de1cb6cee",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "6768b80e-f209-4b0c-b3be-f230c5170f05"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
