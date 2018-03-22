@@ -26,7 +26,7 @@ switch (obj_Reginald.location)
 		
 		//Reset Player spawn
 		obj_Reginald.x = 512;
-		obj_Reginald.y = 384;
+		obj_Reginald.y = 401;
 		
 		//Don't waterfall
 		break;
