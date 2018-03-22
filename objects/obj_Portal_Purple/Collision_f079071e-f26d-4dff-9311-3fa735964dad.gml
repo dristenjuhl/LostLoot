@@ -136,6 +136,125 @@ switch (obj_Reginald.location)
 		
 		//Don't waterfall
 		break;
+		
+	//Room 25 Logic
+	case (25):
+		//Update player location
+		obj_Reginald.location = 29;
+		
+		//Go to next room
+		room_goto(room29);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 26 Logic
+	case (26):
+		//Update player location
+		obj_Reginald.location = 30;
+		
+		//Go to next room
+		room_goto(room30);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 27 Logic
+	case (27):
+		//Update player location
+		obj_Reginald.location = 35;
+		
+		//Go to next room
+		room_goto(room35);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 29 Logic
+	case (29):
+		//Update player location
+		obj_Reginald.location = 40;
+		
+		//Go to next room
+		room_goto(room40);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
 	
+	//Room 31 Logic
+	case (31):
+		//Update player location
+		obj_Reginald.location = 36;
+		
+		//Go to next room
+		room_goto(room36);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 33 Logic
+	case (33):
+		//Update player location
+		obj_Reginald.location = 41;
+		
+		//Go to next room
+		room_goto(room41);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 34 Logic
+	case (34):
+		//Update player location
+		obj_Reginald.location = 39;
+		
+		//Go to next room
+		room_goto(room39);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 35 Logic
+	case (35):
+		//Update player location
+		obj_Reginald.location = 37;
+		
+		//Go to next room
+		room_goto(room37);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
 }
 

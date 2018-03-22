@@ -211,5 +211,155 @@ switch (obj_Reginald.location)
 		
 		//Don't waterfall
 		break;
+		
+	//Room 26 Logic
+	case (26):
+		//Update player location
+		obj_Reginald.location = 25;
+		
+		//Go to next room
+		room_goto(room25);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 27 Logic
+	case (27):
+		//Update player location
+		obj_Reginald.location = 26;
+		
+		//Go to next room
+		room_goto(room26);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 30 Logic
+	case (30):
+		//Update player location
+		obj_Reginald.location = 29;
+		
+		//Go to next room
+		room_goto(room29);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 33 Logic
+	case (33):
+		//Update player location
+		obj_Reginald.location = 32;
+		
+		//Go to next room
+		room_goto(room32);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 34 Logic
+	case (34):
+		//Update player location
+		obj_Reginald.location = 33;
+		
+		//Go to next room
+		room_goto(room33);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 35 Logic
+	case (35):
+		//Update player location
+		obj_Reginald.location = 34;
+		
+		//Go to next room
+		room_goto(room34);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 36 Logic
+	case (36):
+		//Update player location
+		obj_Reginald.location = 37;
+		
+		//Go to next room
+		room_goto(room37);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 37 Logic
+	case (37):
+		//Update player location
+		obj_Reginald.location = 38;
+		
+		//Go to next room
+		room_goto(room38);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 39 Logic
+	case (39):
+		//Update player location
+		obj_Reginald.location = 40;
+		
+		//Go to next room
+		room_goto(room40);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
+		
+	//Room 41 Logic
+	case (41):
+		//Update player location
+		obj_Reginald.location = 42;
+		
+		//Go to next room
+		room_goto(room42);
+		
+		//Reset player spawn
+		obj_Reginald.x = 512;
+		obj_Reginald.y = 401;
+		
+		//Don't waterfall
+		break;
 }
 
