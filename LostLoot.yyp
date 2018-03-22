@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0f5b8f85-fec5-4c9d-b7e4-ea62b6f501f4",
+            "Value": {
+                "id": "eb41d8a2-bfdc-4908-b4fb-466bb609435b",
+                "resourcePath": "objects\\obj_Spawner_Level_2\\obj_Spawner_Level_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fcc5d9e-4e7b-41aa-b4dd-eb80b5289bd1",
             "Value": {
                 "id": "579705fd-f661-4a59-b341-a33de2ce2ab3",
@@ -663,6 +671,14 @@
             }
         },
         {
+            "Key": "927dd896-0f96-4af6-9c56-e3320084b16b",
+            "Value": {
+                "id": "fe195177-ba4d-4370-afac-0a4d840ef219",
+                "resourcePath": "rooms\\room43\\room43.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9b533dbb-ebb8-46d0-98f0-4b322e402090",
             "Value": {
                 "id": "eb5c8825-e7e0-480f-9e2e-948071365720",
@@ -690,7 +706,7 @@
             "Key": "9e68d212-006c-46b8-b99f-d4f987bea327",
             "Value": {
                 "id": "71355b1a-fb78-45fa-bb60-5323fd29d6cb",
-                "resourcePath": "objects\\obj_Spawner\\obj_Spawner.yy",
+                "resourcePath": "objects\\obj_Spawner_Level_1\\obj_Spawner_Level_1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -716,6 +732,14 @@
                 "id": "c08e740a-bbea-49f6-a2c2-35832af8429f",
                 "resourcePath": "views\\a4d8e1a1-4d53-4621-9e33-45393d223e5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5ff8232-6fdb-4810-98f3-5bb0582119b5",
+            "Value": {
+                "id": "9ae819ef-0025-481e-8f1e-0e84aea7f05d",
+                "resourcePath": "objects\\obj_Fireball_Enemy_Level_3\\obj_Fireball_Enemy_Level_3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -834,7 +858,7 @@
             "Key": "ca48b603-81c4-4243-97bc-9da002a552f5",
             "Value": {
                 "id": "a598ef66-fa74-4275-a37f-ca1ee29db9ed",
-                "resourcePath": "objects\\obj_Fireball_Enemy\\obj_Fireball_Enemy.yy",
+                "resourcePath": "objects\\obj_Fireball_Enemy_Level_1\\obj_Fireball_Enemy_Level_1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -860,6 +884,14 @@
                 "id": "94526c7f-278c-45d8-b7b1-7b8033a1baa5",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd47a57e-11d4-4d9d-9d30-9b202edbc6c2",
+            "Value": {
+                "id": "cb8eb6c3-4563-400f-bc32-9f449e0b014a",
+                "resourcePath": "objects\\obj_Fireball_Enemy_Level_2\\obj_Fireball_Enemy_Level_2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -935,6 +967,14 @@
             }
         },
         {
+            "Key": "e516a4f2-f595-46bb-9eec-2bd73f549287",
+            "Value": {
+                "id": "955d1083-ce7d-4e17-9d17-8feca9882915",
+                "resourcePath": "objects\\obj_Spawner_Level_3\\obj_Spawner_Level_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e629ed2e-1140-4f68-9a4c-e5edd4121701",
             "Value": {
                 "id": "dd02af69-d795-47ee-96d4-b972423265b5",
@@ -948,6 +988,14 @@
                 "id": "bee6f7bb-6566-441f-bee9-d304df42cfa5",
                 "resourcePath": "views\\e81aec55-6d9c-4801-a730-0b90c5ac9d68.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e8a30f6a-4666-43da-8ef9-0f97116be8c6",
+            "Value": {
+                "id": "94beb3d8-5d07-4866-a5ce-beeb2022a126",
+                "resourcePath": "objects\\obj_end_of_game_Message\\obj_end_of_game_Message.yy",
+                "resourceType": "GMObject"
             }
         },
         {
