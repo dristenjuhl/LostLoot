@@ -1,5 +1,5 @@
 //Give speed to enemy
-spd = 10;
+spd = 9;
 do {
 	spdX = random_range(-spd,spd) ;
 	spdY = random_range(-spd,spd) ;
