@@ -1,38 +1,38 @@
 {
-    "id": "ca48b603-81c4-4243-97bc-9da002a552f5",
+    "id": "6fa748b9-943c-4238-843b-1ff94a993436",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Fireball_Enemy_Level_1",
+    "name": "obj_bullet",
     "eventList": [
         {
-            "id": "25cd9057-7550-4e24-893b-cb951e990216",
+            "id": "956e3154-523d-44c1-a970-477717bff132",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "ca48b603-81c4-4243-97bc-9da002a552f5"
+            "m_owner": "6fa748b9-943c-4238-843b-1ff94a993436"
         },
         {
-            "id": "4d45c2b8-c017-401b-bd75-f27989f816a0",
+            "id": "297bfdad-8177-43d5-b122-503324e73ae5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "ca48b603-81c4-4243-97bc-9da002a552f5"
+            "m_owner": "6fa748b9-943c-4238-843b-1ff94a993436"
         },
         {
-            "id": "dcefcca9-d2ec-4a94-9a44-0590ad084c1d",
+            "id": "9a38bdcd-3ac7-443f-a331-6150e15156cb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "6fa748b9-943c-4238-843b-1ff94a993436",
+            "collisionObjectId": "ca48b603-81c4-4243-97bc-9da002a552f5",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "ca48b603-81c4-4243-97bc-9da002a552f5"
+            "m_owner": "6fa748b9-943c-4238-843b-1ff94a993436"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "cefda428-f721-45e2-808a-0cc4c87ec6f7",
+    "spriteId": "061d9ba6-b36f-4a13-a0c8-5f351b5c5191",
     "visible": true
 }

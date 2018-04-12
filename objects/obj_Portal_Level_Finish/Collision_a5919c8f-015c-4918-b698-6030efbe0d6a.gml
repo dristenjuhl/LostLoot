@@ -9,6 +9,9 @@ switch (obj_Reginald.location)
 		//Go to next room
 		room_goto(message_room_level_2);
 		
+		//Increase level counter
+		obj_Reginald.current_level = 2;
+		
 		//Reset Player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
@@ -23,6 +26,9 @@ switch (obj_Reginald.location)
 		
 		//Go to next room
 		room_goto(message_room_level_3);
+		
+		//Increase Level counter
+		obj_Reginald.current_level = 3;
 		
 		//Reset Player spawn
 		obj_Reginald.x = 512;
