@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "061d9ba6-b36f-4a13-a0c8-5f351b5c5191",
+            "Value": {
+                "id": "02089b2d-f759-4a0b-9a8b-23396996e23b",
+                "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0623adc7-1827-473a-9042-58580e8ceb08",
             "Value": {
                 "id": "9e29a840-759a-4489-80d9-9ef654af9d27",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "1a3a3b27-9c40-462e-bcf1-46549079df75",
+            "Value": {
+                "id": "4da46515-1ba6-48f5-a7e5-92a05b10e9e4",
+                "resourcePath": "sprites\\spr_gun\\spr_gun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1cdbd119-f6d2-4c4e-8e7e-8f41042179da",
             "Value": {
                 "id": "89078b93-d7b8-457a-bced-eb7227e18e55",
@@ -292,6 +308,14 @@
                 "id": "60e38af0-66f0-44fe-b66e-5586f9651174",
                 "resourcePath": "rooms\\room24\\room24.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "388b338f-7dc1-4c0f-9db4-74c615cae601",
+            "Value": {
+                "id": "5852bb9b-de46-4ad5-8c09-ccec0ba2847b",
+                "resourcePath": "sprites\\spr_ReginaldGun\\spr_ReginaldGun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -674,7 +698,7 @@
             "Key": "927dd896-0f96-4af6-9c56-e3320084b16b",
             "Value": {
                 "id": "fe195177-ba4d-4370-afac-0a4d840ef219",
-                "resourcePath": "rooms\\room43\\room43.yy",
+                "resourcePath": "rooms\\End_Game\\End_Game.yy",
                 "resourceType": "GMRoom"
             }
         },
