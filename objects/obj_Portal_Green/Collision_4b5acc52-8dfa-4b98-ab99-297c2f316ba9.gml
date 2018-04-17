@@ -14,6 +14,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 376;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 	
@@ -28,6 +31,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 376;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -44,6 +50,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 376;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -58,6 +67,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -74,6 +86,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -88,6 +103,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -104,6 +122,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -118,6 +139,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -134,6 +158,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -148,6 +175,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -164,6 +194,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -178,6 +211,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;
@@ -194,6 +230,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -209,6 +248,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
 		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -223,6 +265,9 @@ switch (obj_Reginald.location)
 		//Reset player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
+		
+		//Play portal sound effect
+		audio_play_sound(snd_portal, 1, false);
 		
 		//Don't waterfall
 		break;

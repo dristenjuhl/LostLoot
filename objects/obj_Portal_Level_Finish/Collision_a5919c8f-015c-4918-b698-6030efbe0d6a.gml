@@ -16,6 +16,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 395;
 		
+		//Play horray sound effect
+		audio_play_sound(snd_horray, 1, false);
+		
 		//Don't waterfall
 		break;
 	
@@ -34,6 +37,9 @@ switch (obj_Reginald.location)
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 401;
 		
+		//Play horray sound effect
+		audio_play_sound(snd_horray, 1, false);
+		
 		//Don't waterfall
 		break;
 		
@@ -48,6 +54,9 @@ switch (obj_Reginald.location)
 		//Reset Player spawn
 		obj_Reginald.x = 512;
 		obj_Reginald.y = 384;
+		
+		//Play horray sound effect
+		audio_play_sound(snd_horray, 1, false);
 		
 		//Don't waterfall
 		break;

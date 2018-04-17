@@ -53,9 +53,10 @@ if (current_level == 2)
 	//If space is pressed make a bullet
 	if (keyboard_check(vk_space))
 	{
-		if (instance_number(obj_bullet) == 0)
+		if (instance_number(obj_bullet) == 0) {
 			instance_create_layer(x, y, "Instances", obj_bullet);
-		
+			audio_play_sound(snd_pistol, 1, false);
+		}
 	}
 }
 
@@ -71,6 +72,7 @@ if (current_level == 3)
 				instance_create_layer(x, y, "Instances", obj_bullet);
 				instance_create_layer(x, y + 40, "Instances", obj_bullet);
 				instance_create_layer(x, y - 40, "Instances", obj_bullet);
+				audio_play_sound(snd_shotgun, 1, false);
 			}
 			
 			if (facing == 2 || facing == 3)
@@ -78,10 +80,8 @@ if (current_level == 3)
 				instance_create_layer(x, y, "Instances", obj_bullet);
 				instance_create_layer(x + 40, y, "Instances", obj_bullet);
 				instance_create_layer(x - 40, y, "Instances", obj_bullet);
-			}
-			
-		}
-			
-				
+				audio_play_sound(snd_shotgun, 1, false);
+			}	
+		}		
 	}
 }
