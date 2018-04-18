@@ -743,6 +743,14 @@
             }
         },
         {
+            "Key": "949f3f9c-8d93-420f-8775-f2b9d5934b28",
+            "Value": {
+                "id": "23581014-3e6a-4479-ab8f-a8fd0e119d6b",
+                "resourcePath": "sounds\\snd_fireballdeath\\snd_fireballdeath.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "9b533dbb-ebb8-46d0-98f0-4b322e402090",
             "Value": {
                 "id": "eb5c8825-e7e0-480f-9e2e-948071365720",
