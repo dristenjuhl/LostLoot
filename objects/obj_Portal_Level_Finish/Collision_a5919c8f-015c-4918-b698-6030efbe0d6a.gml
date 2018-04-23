@@ -49,7 +49,7 @@ switch (obj_Reginald.location)
 		obj_Reginald.location = 43;
 		
 		//Go to next room
-		room_goto(room43);
+		room_goto(End_Game);
 		
 		//Reset Player spawn
 		obj_Reginald.x = 512;
