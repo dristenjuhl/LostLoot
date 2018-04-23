@@ -783,6 +783,14 @@
             }
         },
         {
+            "Key": "9d02b4e5-e696-4cef-8ab7-1e3eed549e93",
+            "Value": {
+                "id": "00be1ff0-c1b8-475c-bfbc-ebd9256c109e",
+                "resourcePath": "sprites\\spr_Reginald_Right_Gun\\spr_Reginald_Right_Gun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9e63e100-4562-43e2-ad11-91774e5b86d5",
             "Value": {
                 "id": "776c3e7e-4d69-48a6-bb24-80282767fa9a",
@@ -828,6 +836,14 @@
                 "id": "c08e740a-bbea-49f6-a2c2-35832af8429f",
                 "resourcePath": "views\\a4d8e1a1-4d53-4621-9e33-45393d223e5a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a5aa133b-4631-4270-82d3-b12bbe38d841",
+            "Value": {
+                "id": "34c413a5-2f21-4916-ac1d-06fa2b99d963",
+                "resourcePath": "sprites\\spr_Reginald_Left_Gun\\spr_Reginald_Left_Gun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
