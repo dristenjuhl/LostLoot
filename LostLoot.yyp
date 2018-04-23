@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "0aa4618d-8e06-4105-b556-360b0fa5f65b",
+            "Value": {
+                "id": "c83b1e84-e302-4614-b170-0a996cf3670c",
+                "resourcePath": "sprites\\spr_Reginald_Left\\spr_Reginald_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b4f54eb-6137-477c-bafa-9ae669d45c9a",
             "Value": {
                 "id": "45ebe915-e5e7-4022-9a35-7ae8f675b400",
@@ -751,6 +759,14 @@
             }
         },
         {
+            "Key": "96448410-d05d-48f2-b849-c4e519c33a10",
+            "Value": {
+                "id": "a267b1cc-5e00-4760-b1b2-5315cdaa77aa",
+                "resourcePath": "sprites\\spr_Reginald_Up\\spr_Reginald_Up.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9b533dbb-ebb8-46d0-98f0-4b322e402090",
             "Value": {
                 "id": "eb5c8825-e7e0-480f-9e2e-948071365720",
@@ -820,14 +836,6 @@
                 "id": "9ae819ef-0025-481e-8f1e-0e84aea7f05d",
                 "resourcePath": "objects\\obj_Fireball_Enemy_Level_3\\obj_Fireball_Enemy_Level_3.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "1091e8ae-75db-4845-9d51-be67d2d14533",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -931,6 +939,14 @@
             "Value": {
                 "id": "6c027c8d-807b-4cf5-ab81-0bec124fddf1",
                 "resourcePath": "sprites\\spr_Room209\\spr_Room209.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c5972b6e-fd41-401f-9100-539c5a2fe473",
+            "Value": {
+                "id": "2424cc3a-34ea-46a5-8153-e2a19b855c82",
+                "resourcePath": "sprites\\spr_Reginald_Right\\spr_Reginald_Right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1044,6 +1060,14 @@
                 "id": "cea447b1-b65d-4d9f-bfba-e3f13c956a0a",
                 "resourcePath": "views\\d845eac7-f56b-4ad4-a6f4-25037181a29b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d8fa5a91-4ef3-479b-9f71-af95e8630a70",
+            "Value": {
+                "id": "5e513a13-c486-461f-812d-a7a8613b4ab7",
+                "resourcePath": "sprites\\spr_Reginald_Down\\spr_Reginald_Down.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1172,14 +1196,6 @@
                 "id": "d19cfc0e-ee5f-4420-8528-98c523c86821",
                 "resourcePath": "views\\f32446c5-d8a3-427c-96d7-d627d7f7256a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "9e39c52d-7788-4749-8776-9b305f243de3",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {
