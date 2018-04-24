@@ -1,5 +1,5 @@
 /// @description Initialize Variables & Set Direction
-movement_speed = 10;
+movement_speed = 18;
 bullet_direction = 0;
 	
 //Player facing right set bullet direction

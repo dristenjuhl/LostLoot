@@ -3,6 +3,10 @@ switch (obj_Reginald.location)
 {
 	//Room 5 Logic
 	case (5):
+		//Stop Level 1 music and start Level 2 music
+		audio_stop_sound(snd_Level1_Music);
+		audio_play_sound(snd_Level2_Music, 1, true);
+	
 		//Update player location
 		obj_Reginald.location = 10;
 		
@@ -24,6 +28,10 @@ switch (obj_Reginald.location)
 	
 	//Room 22 Logic
 	case (22):
+		//Stop Level 2 music and start Level 3 music
+		audio_stop_sound(snd_Level2_Music);
+		audio_play_sound(snd_Level3_Music, 1, true);
+	
 		//Update player location
 		obj_Reginald.location = 24;
 		
@@ -44,7 +52,7 @@ switch (obj_Reginald.location)
 		break;
 		
 	//Room 42 Logic
-	case (42):
+	case (42):	
 		//Update player location
 		obj_Reginald.location = 43;
 		

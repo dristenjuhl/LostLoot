@@ -13,8 +13,5 @@ location = 1;
 obj_Reginald.x = 512;
 obj_Reginald.y = 378;
 
-//Play death sound
-audio_play_sound(snd_death, 1, false);
-
 //Goto start of level 1
 room_goto(room1);

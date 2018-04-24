@@ -1,33 +1,5 @@
 /// @description Player Movement
 
-//Move player right
-if (keyboard_check(ord("D")))
-{
-	x += movement_speed;
-	facing = 0;
-}
-
-//Move player left
-if (keyboard_check(ord("A"))) 
-{
-	x -= movement_speed;
-	facing = 1;
-}
-
-//Move player down
-if (keyboard_check(ord("S"))) 
-{
-	y += movement_speed;
-	facing = 2;
-}
-
-//Move player up
-if (keyboard_check(ord("W"))) 
-{
-	y -= movement_speed;
-	facing = 3;
-}
-
 //Keep player bounds within room
 x = clamp(x, 20, room_width - 20);
 y = clamp(y, 25, room_height - 25);
@@ -36,14 +8,88 @@ y = clamp(y, 25, room_height - 25);
 
 if (current_level = 1) 
 {
-	//Draw player without gun for level 1
-	sprite_index = spr_Reginald;	
+	//Move player right
+	if (keyboard_check(ord("D")))
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Right;	
+		
+		x += movement_speed;
+		facing = 0;
+	}
+
+	//Move player left
+	if (keyboard_check(ord("A"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Left;	
+		
+		x -= movement_speed;
+		facing = 1;
+	}
+
+	//Move player down
+	if (keyboard_check(ord("S"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Down;	
+		
+		y += movement_speed;
+		facing = 2;
+	}
+
+	//Move player up
+	if (keyboard_check(ord("W"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Up;	
+		
+		y -= movement_speed;
+		facing = 3;
+	}
 }
 
 if (current_level > 1)
 {
-	//Draw player with a gun for levels 2 and 3
-	sprite_index = spr_ReginaldGun;
+	//Move player right
+	if (keyboard_check(ord("D")))
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Right_Gun;	
+		
+		x += movement_speed;
+		facing = 0;
+	}
+
+	//Move player left
+	if (keyboard_check(ord("A"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Left_Gun;	
+		
+		x -= movement_speed;
+		facing = 1;
+	}
+
+	//Move player down
+	if (keyboard_check(ord("S"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Down;	
+		
+		y += movement_speed;
+		facing = 2;
+	}
+
+	//Move player up
+	if (keyboard_check(ord("W"))) 
+	{
+		//Draw player without gun for level 1
+		sprite_index = spr_Reginald_Up;	
+		
+		y -= movement_speed;
+		facing = 3;
+	}
 }
 
 //Shoot one bullet at a time for level 2
