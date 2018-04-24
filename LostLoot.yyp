@@ -527,6 +527,14 @@
             }
         },
         {
+            "Key": "5a28be06-8297-40b2-87c5-094d5a4b38ed",
+            "Value": {
+                "id": "8593a509-e798-47e2-92e7-83db4390e443",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5aa4db15-edbb-4470-a586-b273fdb49d98",
             "Value": {
                 "id": "8175f22b-3a9e-4959-890f-4719fd361d1c",
@@ -668,6 +676,14 @@
                 "id": "f4044ec9-6bfb-4331-a431-a16a92980704",
                 "resourcePath": "sprites\\spr_Room307\\spr_Room307.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "76f0590f-8610-4265-947f-4bbcf972b652",
+            "Value": {
+                "id": "0ce20dee-08bc-4d8a-9baf-73014bb5469e",
+                "resourcePath": "fonts\\fnt_menu\\fnt_menu.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -831,6 +847,14 @@
             }
         },
         {
+            "Key": "a4cde0e6-2fba-4f97-b8d0-5176d44b6c3f",
+            "Value": {
+                "id": "a163127a-4a1d-4ad8-aa7e-fcb6b25ab861",
+                "resourcePath": "sprites\\spr_menu\\spr_menu.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a4d8e1a1-4d53-4621-9e33-45393d223e5a",
             "Value": {
                 "id": "c08e740a-bbea-49f6-a2c2-35832af8429f",
@@ -959,6 +983,14 @@
             }
         },
         {
+            "Key": "c5743e24-47b8-401e-a10c-add8fd574ce0",
+            "Value": {
+                "id": "40721edb-de63-4456-946e-ff2d4605d9f0",
+                "resourcePath": "rooms\\Menu\\Menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c5972b6e-fd41-401f-9100-539c5a2fe473",
             "Value": {
                 "id": "2424cc3a-34ea-46a5-8153-e2a19b855c82",
@@ -1020,6 +1052,14 @@
                 "id": "cb8eb6c3-4563-400f-bc32-9f449e0b014a",
                 "resourcePath": "objects\\obj_Fireball_Enemy_Level_2\\obj_Fireball_Enemy_Level_2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cd512c00-d80e-4502-9fe0-1473e3c63b4c",
+            "Value": {
+                "id": "2f13a3dd-335e-4d50-9291-103844a98548",
+                "resourcePath": "sprites\\spr_chest\\spr_chest.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
