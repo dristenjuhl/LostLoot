@@ -1,13 +1,15 @@
 //Create 1 new enemy
 repeat(1)
 {
-	random_x = random(room_width);
-	random_y = random(room_height);
-	
-	if(point_direction(obj_Reginald.x, obj_Reginald.y, random_x, random_y) > 150) 
+	do
 	{
-		instance_create_layer(random_x,random_y,"Instances",obj_Fireball_Enemy_Level_1);
+		random_x = random_range(-32, room_width + 32)
+		random_y = random_range(-32, room_height + 32)
 	}
+	until ((random_x < 0 or random_x > room_width) and (random_y < 0 or random_y > room_height))
+	
+	instance_create_layer(random_x,random_y,"Instances",obj_Fireball_Enemy_Level_1);
+
 }
 
 //Decrease time between spawns
