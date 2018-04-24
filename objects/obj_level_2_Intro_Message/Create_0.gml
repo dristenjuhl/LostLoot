@@ -1,3 +1,3 @@
 //Pre-alpha Intro Message and Directions
-show_message("You made it to The Catacombs!\n\nThis is where the game starts getting harder.\n\nEnemies now spawn faster and move towards you faster. Lucky for you there is a weapon that you can use to defend yourself. (Use SPACE BAR to shoot)\n\nThe goal for this level is to reach room 13. Try using similar strategy and watch out for trap rooms.\n\nOnce you reach room 13, you will teleport to The Graveyard. Good luck!");
+show_message("You made it to The Catacombs!\n\nThis is where the game starts getting harder.\n\nEnemies now spawn faster and move towards you faster. Lucky for you there is a weapon that you can use to defend yourself. (Use SPACE BAR to shoot)\n\nThe goal for this level is to reach room 13. Try using a similar strategy and watch out for trap rooms.\n\nOnce you reach room 13, you will be teleported to The Graveyard. Good luck!");
 room_goto(room10);

@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "086fd319-f9da-48ed-a11e-604deed0e2c9",
-            "Value": {
-                "id": "f7026f1b-cbf2-48f5-bce4-f12814f0f953",
-                "resourcePath": "objects\\obj_soundtest\\obj_soundtest.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "089fadc6-f07f-4fcf-88d0-d8b76282454f",
             "Value": {
                 "id": "b28649fa-b09f-4306-8f24-ba3aa8079578",
